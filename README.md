@@ -8,7 +8,7 @@ Convert imperial units to their metric equivalent. User can select type of unit 
 
 ### To view
 
-Link to project: https://neirouzjbira.github.io/Converty/
+Link to project: https://NeirouzJbira.github.io/Converty/
 
 ### Demo
 
